@@ -1,0 +1,23 @@
+{
+  "name": "hoidanit",
+  "version": "1.0.0",
+  "description": "Hoi dan IT",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oliver2k1/udemy_nodejs_hoidanit.git"
+  },
+  "author": "Oliver",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oliver2k1/udemy_nodejs_hoidanit/issues"
+  },
+  "homepage": "https://github.com/oliver2k1/udemy_nodejs_hoidanit#readme",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
